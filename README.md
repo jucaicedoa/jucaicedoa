@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4D4D4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C2143&height=120&section=header"/>
 <div align="center">
   
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Ubuntu&size=40&duration=5020&pause=1000&color=187030&background=FF165300&center=true&vCenter=true&width=850&lines=Hi%2C+I+am+Juan+David+Caicedo+Aponte;Student+National+University+of+Colombia;Information+Systems+Administration)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Ubuntu&size=40&duration=5020&pause=1000&color=F0FD71&background=FF165300&center=true&vCenter=true&width=850&lines=Hi%2C+I+am+Juan+David+Caicedo+Aponte;Student+National+University+of+Colombia;Information+Systems+Administration)](https://git.io/typing-svg)
   
-<img src="https://d1fdloi71mui9q.cloudfront.net/jEffP7TTzasNtfXkEZQQ_W32uL118kntc7Xz3">
+<img src="https://media.licdn.com/dms/image/D4E22AQGuV_jfXx0FTQ/feedshare-shrink_2048_1536/0/1686837764795?e=1689811200&v=beta&t=qXqgbHVQke9AJrToZsZPAZ0R9lW_QIUaI11Sd6bUaok">
 
 [![wakatime](https://wakatime.com/badge/user/8203b459-67da-44f9-a97b-b932f2f79f90.svg)](https://wakatime.com/@8203b459-67da-44f9-a97b-b932f2f79f90)  
 <a href="https://linktr.ee/jucaicedoa" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2022/12/Linktree-Emblem.png" alt="redes jucaicedoa" height="50" width="100" /></a>
@@ -39,4 +39,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucaicedoa&hide_progress=true)
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4D4D4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C2143&height=120&section=footer"/>

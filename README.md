@@ -9,11 +9,11 @@
 <a href="https://linktr.ee/jucaicedoa" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2022/12/Linktree-Emblem.png" alt="redes jucaicedoa" height="50" width="100" /></a>
 # About me
 
--👋 Hi, I'm @Juan David Caicedo Aponte and I study Information Systems Administration at the National University of Colombia
+-👋 Hi, I'm @Juan David Caicedo Aponte and I study **Information Systems Administration** at the National University of Colombia.
 
--👀 I am interested in learning and sharing knowledge in different technologies
+-👀 I am interested in learning and sharing knowledge in different technologies.
 
--👨‍💻 CODA collective leader.
+-👨‍💻 **CODA** collective leader.
 
 # Technologies
   
@@ -32,9 +32,10 @@
 </p>
  
 ## ⚙️ GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jucaicedoa&show_icons=true&theme=merko&rank_icon=github)
+![jucaicedoa GitHub stats](https://herramienta-readme.vercel.app/api?username=jucaicedoa&show_icons=true&theme=merko&rank_icon=github)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucaicedoa&hide_progress=true)
+![Top Langs](https://herramienta-readme.vercel.app/api/top-langs/?username=jucaicedoa&exclude_repo=herramienta,jucaicedoa.github.io&theme=merko)
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C2143&height=120&section=footer"/>

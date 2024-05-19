@@ -36,6 +36,8 @@
   
 ![Top Langs](https://herramienta-readme.vercel.app/api/top-langs/?username=jucaicedoa&exclude_repo=herramienta,jucaicedoa.github.io&theme=merko)
 
+## Road Card
+[![roadmap.sh](https://roadmap.sh/card/tall/66495ac5bc68b74d9bc8b86d?variant=dark)](https://roadmap.sh)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C2143&height=120&section=footer"/>
